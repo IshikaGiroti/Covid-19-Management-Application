@@ -50,8 +50,7 @@ This application aims to deliver a system to manage the vaccination and testing 
 #### Fig. 13. The testing database gets updated accordingly as well.
 <img src="https://user-images.githubusercontent.com/75370975/146650545-0b0fb408-5a24-4eb2-aaa2-4d4d6b709a18.png" width="450"/>
 
-#### Fig. 14. View Testing Appointment Page
-Here, the contents are uneditable.
+#### Fig. 14. View Testing Appointment Page, the contents are uneditable.
 <img src="https://user-images.githubusercontent.com/75370975/146650563-51e578c0-6dc0-4046-a946-12d394b4cad9.png" width="450"/>
 
 #### Fig. 15. Change Appointment Page
