@@ -124,5 +124,6 @@ This application aims to deliver a system to manage the vaccination and testing 
 #### Fig. 35. Upon completion of updating, the name automatically disappears from the list.
 <img src="https://user-images.githubusercontent.com/75370975/146650856-d683202d-175f-4fab-b0c2-2df933364a4d.png" width="450"/>
 
-#### Fig. 36. The database is updated successfully.<img src="https://user-images.githubusercontent.com/75370975/146650863-3be1102a-3804-4036-b4e9-bd1e41dbfd69.png" width="450"/>
+#### Fig. 36. The database is updated successfully.
+<img src="https://user-images.githubusercontent.com/75370975/146650863-3be1102a-3804-4036-b4e9-bd1e41dbfd69.png" width="450"/>
 
