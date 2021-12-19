@@ -4,6 +4,11 @@ This application aims to deliver a system to manage the vaccination and testing 
 - Helps users manage their vaccination and testing related duties.
 - Helps labs to manage the update of results and certificates for the user to access.
 
+## Technologies Used
+- MySQL
+- Java Swing
+- JDBC
+
 ## System Design
 <img src="https://user-images.githubusercontent.com/75370975/146649575-1039938d-9560-437e-b642-9667a4277d0c.png" alt="Your image title" width="700"/>
 
